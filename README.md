@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mirnes" />
  </a>
  <a href="https://www.linkedin.com/in/mirnes-kovacevic/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mirnes"/>
  </a>
 
 
@@ -91,13 +91,13 @@
 
 <p align="center">
   <a href="https://github.com/Mirnessss">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Mirnes's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirnessss&theme=radical&border=7F3FBF&background=0D1117" alt="Mirnes's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mirnessss">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Mirnes's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirnessss&theme=radical" alt="Mirnes's GitHub Contribution"/>
   </a>
 </p>
 
