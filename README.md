@@ -10,7 +10,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://mirnes-dev.com">MKDev</a></b>
+                <b><a target="_blank" href="https://mirnes-dev.com">Mirnes</a></b>
         </samp>
 </h3>
 
@@ -43,7 +43,7 @@
 <p>
 
   
- ✌️ &emsp; Enjoy to do programming <br/><br/>
+ ✌️ &emsp; Enjoying solving problems <br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mirnes.kovacevic@gmail.com<br/><br/>
 
