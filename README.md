@@ -103,4 +103,4 @@
 </a>
 
 
-![Mirnes's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirnessss&custom_title=Mirnes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+[![Mirnes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirnessss&bg_color=000000&color=9e4c98&line=9e4c98&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
