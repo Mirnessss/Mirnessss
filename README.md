@@ -87,10 +87,6 @@
 <br/>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mirnessss&theme=dark" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Mirnessss">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirnessss&theme=radical" alt="Mirnes's GitHub Contribution"/>
   </a>
@@ -101,6 +97,3 @@
   <a href="https://github.com/Mirnessss"><img alt="Mirnes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mirnessss&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-
-[![Mirnes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirnessss&bg_color=000000&color=9e4c98&line=9e4c98&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
