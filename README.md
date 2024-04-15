@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
- <a href="https://mirnes-dev.com" target="blank">
+ <a href="https://mirnes-dev.netlify.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mirnes" />
  </a>
  <a href="https://www.linkedin.com/in/mirnes-kovacevic/" target="_blank">
