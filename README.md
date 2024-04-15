@@ -17,7 +17,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://mirnes-dev.com">「 Visit my portfolio website 」</a>
+    <a href="https://mirnes-dev.netlify.app">「 Visit my portfolio website 」</a>
     <br>
     「 I am a full stack web developer from <b>Germany</b> 」
     <br>
