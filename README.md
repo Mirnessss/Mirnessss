@@ -10,7 +10,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://mirnes-dev.com">Mirnes</a></b>
+                <b><a target="_blank" href="https://mirnes-dev.netlify.app">Mirnes</a></b>
         </samp>
 </h3>
 
